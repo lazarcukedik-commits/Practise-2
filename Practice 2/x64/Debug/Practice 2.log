@@ -1,0 +1,4 @@
+﻿  1.cpp
+G:\source\repos\Practice 2\Practice 2\1.cpp(3,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\source\repos\Practice 2\Practice 2\1.cpp(4,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Practice 2.vcxproj -> G:\source\repos\Practice 2\x64\Debug\Practice 2.exe
